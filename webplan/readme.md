@@ -27,4 +27,12 @@ The Website has the following parts:
 
 > **Disclaimer:** *This project may be used for the S.Y. 2026 - 2027 Batch Council Elections by its creator.*
 
-## Link to Mock Website: 
+## Links
+
+Mock Website: Website Link: https://adriel-pshsmc.github.io/WDProjPotassumManamparan/
+
+
+Wireframe Plan: https://www.canva.com/design/DAG3KzcYek4/Ks7b5aqk-aSFpk-J2qvOKQ/edit?utm_content=DAG3KzcYek4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Repository: GitHub Repository: https://github.com/adriel-pshsmc/WDProjPotassumManamparan
+
