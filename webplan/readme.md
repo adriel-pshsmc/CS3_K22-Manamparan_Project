@@ -18,12 +18,43 @@ The Website has the following parts:
 
 1. Home Page:
 
-    This is where visitors will be welcomed. It will include
+    This is where visitors will be welcomed. It will include the main data to be shown to the students, such as video clips regarding the batch, links to different segments of the batch, and other data.
+
+2. Navigation Bar:
+
+    This is where links to general segments of the website can be accessed. Sites that can accessed through this page would be the likes of: Sign-in, Events, Reviewers (ARCHERS), Forms, Home (for other pages), and other parts that I will think of soon.
+
+3. Side Bar:
+
+    This is where more specific pages can be accessed, such as subcategories of the main websites. (e.g. Events -> ALAB 2026 / Family Day 2026-28 / Mid-S.Year Fair 2028, or Reviewers -> STEM/HUMMS)
+
+4. Sign-in Page:
+
+    This area is where the students will be allowed to log into the website to access batch-specific functions, such as administrator access to the website to allow for editing, etc.
+
+5. Events:
+
+    This area is where different information regarding events held by B2029 can be found, which may be utilized for events such as ALAB 2026, future Family Days, future Intramurals, Mid-School Year Fair 2028, and other significant events.
+
+6. Documents
+
+    These will include possible editors for all documents needed by the students to be filed, such as S.I.P. forms, Club forms, SDO forms, DSA forms, and others.
+
 # Beautification: CSS Segment
+
+    The CSS Segment will allow for the website to be organized into different segments, with additional aesthetics for each of these segments.
 
 # The Back End: JavaScript Segment
 
+The JavaScript has two main uses:
 
+a. Transistion for different elements: It will allow for elements such as the side navigation bar to transistion, while also allowing for easy page changes through editing the main code.
+
+b. Aesthetics: It will allow for cool features such as animation to run through the website.
+
+c. Database: An entire database will be run on JavaScript, allowing for data to be stored within the website.
+
+d. Encryption: JavaScript allows for certain elements to be run through processes that allows for its data to be encrypted by the server.
 
 > **Disclaimer:** *This project may be used for the S.Y. 2026 - 2027 Batch Council Elections by its creator.*
 
@@ -34,5 +65,5 @@ Mock Website: Website Link: https://adriel-pshsmc.github.io/WDProjPotassumManamp
 
 Wireframe Plan: https://www.canva.com/design/DAG3KzcYek4/Ks7b5aqk-aSFpk-J2qvOKQ/edit?utm_content=DAG3KzcYek4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Repository: GitHub Repository: https://github.com/adriel-pshsmc/WDProjPotassumManamparan
+~~~Repository: GitHub Repository: https://github.com/adriel-pshsmc/WDProjPotassumManamparan~~~
 
